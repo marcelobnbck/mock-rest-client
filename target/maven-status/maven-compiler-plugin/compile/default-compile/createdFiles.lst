@@ -1,0 +1,3 @@
+com\example\graphql\model\User.class
+com\example\graphql\client\UserClient.class
+com\example\graphql\GraphqlApplication.class
